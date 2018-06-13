@@ -1,3 +1,6 @@
 Save Format v3.0(19990112)
 @begin Targets
+ 0 "sffff.pbt";
 @end;
+DefaultTarget "sffff.pbt";
+DefaultRemoteTarget "sffff.pbt";
